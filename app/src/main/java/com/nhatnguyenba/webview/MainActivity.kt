@@ -530,7 +530,7 @@ fun CustomSearchTextField(
     )
 }
 
-// Preview với cả light và dark theme
+// Preview với light và dark theme
 @Preview(showBackground = true)
 @Composable
 fun CustomSearchTextFieldPreview_Light() {
